@@ -1,0 +1,5 @@
+#Settings for the token grabber thingy idk
+
+WEBHOOK_URL = "YOURWEBHOOKURL"
+GIVE_IP = True
+#Will the webhook give you the victims ip ^
